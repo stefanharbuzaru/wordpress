@@ -1,1 +1,3 @@
-database filce mymagwp.sql 
+database file: mymagwp.sql 
+user: root
+pass: ''
